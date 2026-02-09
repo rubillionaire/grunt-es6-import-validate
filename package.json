@@ -1,6 +1,6 @@
 {
-  "name": "grunt-es6-import-validate",
-  "version": "0.0.7",
+  "name": "@risd/grunt-es6-import-validate",
+  "version": "0.0.8",
   "description": "A Grunt task for validating ES6 Module import statements",
   "main": "index.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/sproutsocial/grunt-es6-import-validate.git"
+    "url": "git://github.com/rubillionaire/grunt-es6-import-validate.git"
   },
   "keywords": [
     "gruntplugin",
     "es6",
     "module"
   ],
-  "author": "Jacob Gable <jacob.gable@gmail.com>",
+  "author": "Ruben Rodriguez <mail@rubenrodriguez.me>",
   "license": "MIT",
   "peerDependencies": {
     "grunt": ">=0.4.0"
